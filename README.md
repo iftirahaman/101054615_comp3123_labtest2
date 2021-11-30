@@ -1,10 +1,17 @@
-#ScreenShot 1:
+## ScreenShot 1:
+
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(1).png?raw=true)
-#ScreenShot 1:
+
+## ScreenShot 2:
+
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(2).png?raw=true)
-#ScreenShot 1:
+
+## ScreenShot 3:
+
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(3).png?raw=true)
-#ScreenShot 1:
+
+## ScreenShot 4:
+
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(4).png?raw=true)
 
 
