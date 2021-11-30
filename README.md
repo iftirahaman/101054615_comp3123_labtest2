@@ -1,5 +1,5 @@
 #ScreenShot 1:
-![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2 (1).png?raw=true)
+![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(1).png?raw=true)
 #ScreenShot 1:
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2 (2).png?raw=true)
 #ScreenShot 1:
