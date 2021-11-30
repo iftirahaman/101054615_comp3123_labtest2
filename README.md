@@ -22,7 +22,7 @@ You will also see any lint errors in the console.
 
 ## References
 
-###https://www.digitalocean.com/community/tutorials/react-axios-react
-###https://openweathermap.org/forecast16
-###https://designrevision.com/react-axios/
-###https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/
+### https://www.digitalocean.com/community/tutorials/react-axios-react
+### https://openweathermap.org/forecast16
+### https://designrevision.com/react-axios/
+### https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/
