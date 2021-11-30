@@ -1,11 +1,11 @@
 #ScreenShot 1:
 ![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(1).png?raw=true)
 #ScreenShot 1:
-![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2 (2).png?raw=true)
+![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(2).png?raw=true)
 #ScreenShot 1:
-![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2 (3).png?raw=true)
+![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(3).png?raw=true)
 #ScreenShot 1:
-![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2 (4).png?raw=true)
+![alt text](https://github.com/iftirahaman/101054615_comp3123_labtest2/blob/master/LabTest_2%20(4).png?raw=true)
 
 
 In the project directory, you can run:
