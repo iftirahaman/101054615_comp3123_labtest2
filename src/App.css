@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(rgba(45,145,144,0.8),rgba(0,245,242,0.8),rgba(255,255,255,0.1));
+  width: 100%;
+  
+}
+.Appw {
+  text-align: center;
+  background-image: linear-gradient(rgba(169,98,50,0.8),rgba(230,111,29,0.8),rgba(255,255,255,0.1));
+  width: 100%;
+}
+.search-bar{
+  width: auto;
+  margin: 0 0 75px;
+  padding: 15px;
+  border-radius: 15px;
+}
+.btn-check{
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+  transition-duration: 0.4s;
+
+}
+.btn-check:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+.Temp{
+  color: black;
+  display: inline;
+}
+.left{
+  float: left;
+}
+.Day-pick{
+  margin-bottom: 0px;
+}
+.con{
+  margin-left: 25px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
